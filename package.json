@@ -1,0 +1,28 @@
+{
+  "name": "canvaslayout",
+  "version": "1.0.0",
+  "description": "The project created as a library to use it in the canvas based applications to create a layout with simple and configurable json or js-objects. You can use a simple way to create layout and stylesheet.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romadanylchuk/canvaslayout.git"
+  },
+  "keywords": [
+    "canvas",
+    "layout",
+    "stylesheet",
+    "2d-graphic",
+    "web"
+  ],
+  "author": "RomanDanylchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romadanylchuk/canvaslayout/issues"
+  },
+  "homepage": "https://github.com/romadanylchuk/canvaslayout#readme"
+}
